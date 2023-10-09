@@ -3,13 +3,13 @@ let input = prompt('Input Grade:')
 let enteredGrade = parseFloat(input)
 
 
-function grades (x){
+function grades (c){
     //grade selector
-    if (x > 79 && x<= 100) return "A"
-    else if (60 <= x && x<= 79) return "B"
-    else if (50<= x && x<= 59) return "C"
-    else if (40<= x && x<= 49) return "D"
-    else if (40 > x ) return "E"
+    if (c > 79 && c<= 100) return "A"
+    else if (60 <= c && c<= 79) return "B"
+    else if (50<= c && c<= 59) return "C"
+    else if (40<= c && c<= 49) return "D"
+    else if (40 >c ) return "E"
     else return "no grade detected!"
 
 }
