@@ -10,7 +10,7 @@ const limit = 70
 // This function checks the speed of a vehicle and returns a message depending on the speed.
 function  checkSpeed(speed) {
   // If the speed is below the limit, return "Ok".
-    if (speed < 70) {
+    if (speed <= 70) {
        return "Ok";
     } else {
      // Calculate the number of points the driver gets for speeding.
