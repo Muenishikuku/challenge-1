@@ -37,3 +37,7 @@ The Salary Calculator code calculates various deductions and taxes from a given 
 
 # Conclusion
 These JavaScript codes are designed for simple grading, speed checking and salary calculations
+
+# Author
+
+[Mueni Shikuku](https://github.com/Muenishikuku) 
