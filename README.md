@@ -42,9 +42,9 @@ These JavaScript codes are designed for simple grading, speed checking and salar
 
 [Mueni Shikuku](https://github.com/Muenishikuku) 
 
-MIT License
+## MIT License
 
-Copyright (c) [2023] [James Kinyanjui]
+Copyright (c) [2023] [Mueni Shikuku]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
